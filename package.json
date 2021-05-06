@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "css-loader": "^5.2.4",
+    "mini-css-extract-plugin": "^1.6.0",
+    "svg-url-loader": "^7.1.1",
+    "webpack": "^5.36.2"
+  },
+  "name": "issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^4.6.0"
+  }
+}
